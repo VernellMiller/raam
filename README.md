@@ -28,7 +28,7 @@ Community based, all-in-one app where anyone can create a local food pantry to l
 - Real-Time Stock Checker
 
 # How to Contribute 
-Feel free to fork and pull request any ideas , features you have! Approval within 24hrs
+Feel free to fork and pull request any ideas , features you have!
 # Usage Instructions
 Clone this repository e.g.
 ```
